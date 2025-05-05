@@ -28,7 +28,7 @@
   <E_motor_controls>ელ. ძრავის სამართავი</E_motor_controls>
   <Diesel_Engine>დიზელის ძრავა</Diesel_Engine>
   <E_Motor_Direction>წინ/უკან გადამრთავი</E_Motor_Direction>
-  <PortVoltageRegulator>პორტის განათების ძაბვის მარეგულირებელი</PortVoltageRegulator>
-  <StbVoltageRegulator>გემბანის განათების ძაბვის მარეგულირებელი</StbVoltageRegulator>
+  <PortVoltageRegulator>მარცხენა მხარეს განათების ძაბვის მარეგულირებელი</PortVoltageRegulator>
+  <StbVoltageRegulator>მარჯვენა მხარეს განათების ძაბვის მარეგულირებელი</StbVoltageRegulator>
   <AuxVoltageRegulator>დამხმარე ძაბვის მარეგულირებელი</AuxVoltageRegulator>
 </LanguageString>
