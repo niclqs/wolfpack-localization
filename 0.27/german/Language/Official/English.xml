@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <rudder>Rudersteuerung</rudder>
-  <periscope>Periskop</periscope>
-  <TDC>Torpedo-Datencomputer</TDC>
-  <directionFinder>Funkpeiler</directionFinder>
+  <rudder>Ruder</rudder>
+  <periscope>Seerohr</periscope>
+  <TDC>Torpedorechenapparat</TDC>
+  <directionFinder>Funkpeilstation</directionFinder>
   <radio>Funkgerät</radio>
-  <hydrophone>Hydrophon</hydrophone>
-  <enigma>Enigma-Maschine</enigma>
+  <hydrophone>Horchanlage</hydrophone>
+  <enigma>Schlüsselmaschine Enigma</enigma>
   <ladder>Leiter</ladder>
   <morseKey>Morsetaste</morseKey>
   <deckgun>Deckgeschütz</deckgun>
   <uzo>UZO (Überwasserzieloptik)</uzo>
   <AAgun>Flugabwehrkanone</AAgun>
-  <ballastTank_forwardVent>Bug-Ballastventil</ballastTank_forwardVent>
-  <ballastTank_aftVent>Heck-Ballastventil</ballastTank_aftVent>
+  <ballastTank_forwardVent>Entlüftung Tauchzelle vorn</ballastTank_forwardVent>
+  <ballastTank_aftVent>Entlüftung Tauchzelle achtern</ballastTank_aftVent>
   <EOT>Maschinentelegraf</EOT>
-  <diveControl>Tauchsteuerung</diveControl>
-  <ballastTankControl>Ballasttank-Steuerung</ballastTankControl>
-  <negativeTankControl>Negativtank-Steuerung</negativeTankControl>
-  <recordStation>Schallplattenspieler</recordStation>
+  <diveControl>Tiefensteuerstand</diveControl>
+  <ballastTankControl>Flutanlage</ballastTankControl>
+  <negativeTankControl>Schnelltauchzellen</negativeTankControl>
+  <recordStation>Grammophon</recordStation>
   <echoRanger>Echolot</echoRanger>
-  <mapTable>Navigationskarte</mapTable>
-  <trimTanks>Regelzellenventil</trimTanks>
+  <mapTable>Kartentisch</mapTable>
+  <trimTanks>Trimmzellen</trimTanks>
   <helmStation>Steuerstand</helmStation>
-  <BackupRudder>Reserve-Rudersteuerung</BackupRudder>
+  <BackupRudder>Reserve-Ruder</BackupRudder>
   <Telephone>Bordtelefon</Telephone>
-  <E_motor_controls>Elektromotor-Steuerung</E_motor_controls>
+  <E_motor_controls>E-Maschinen-Steuerung</E_motor_controls>
   <Diesel_Engine>Dieselmotor</Diesel_Engine>
-  <E_Motor_Direction>Vorwärts/Rückwärts-Schalter</E_Motor_Direction>
-  <PortVoltageRegulator>Backbord-Lichtspannungsregler</PortVoltageRegulator>
-  <StbVoltageRegulator>Steuerbord-Lichtspannungsregler</StbVoltageRegulator>
+  <E_Motor_Direction>Fahrschalter</E_Motor_Direction>
+  <PortVoltageRegulator>Spannungsregler Backbord</PortVoltageRegulator>
+  <StbVoltageRegulator>Spannungsregler Steuerbord</StbVoltageRegulator>
   <AuxVoltageRegulator>Hilfsspannungsregler</AuxVoltageRegulator>
 </LanguageString>
